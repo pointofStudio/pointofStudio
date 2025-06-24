@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨 About Me:
 <br>👋 Hi, I’m @pointofStudio<br><br>👀 I’m interested in Frontend Development and Android Apps<br>🌱 I’m currently learning Flutter<br>🔭 I’m currently working on Websites with Flutter<br><br>📫 How to reach me: point.of.studio14@gmail.com
 
 
